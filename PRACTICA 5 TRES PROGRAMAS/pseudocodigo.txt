@@ -1,0 +1,24 @@
+if(condition){
+	if(condition){
+		if(condition){
+			if(condition){
+				if(condition){
+					if(condition){
+						if(condition){
+							if(condition){
+								if(condition){
+									Statement
+								}
+								else{
+									if(condition){
+										Statement
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+}

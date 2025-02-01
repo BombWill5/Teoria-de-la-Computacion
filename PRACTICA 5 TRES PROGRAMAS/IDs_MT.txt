@@ -1,0 +1,13 @@
+(q0)0011
+⊦X(q1)011
+⊦X0(q1)11
+⊦X(q2)0Y1
+⊦(q2)X0Y1
+⊦X(q0)0Y1
+⊦XX(q1)Y1
+⊦XXY(q1)1
+⊦XX(q2)YY
+⊦X(q2)XYY
+⊦XX(q0)YY
+⊦XXY(q3)Y
+⊦XXYY(q3)

@@ -1,0 +1,756 @@
+1 6 12 18 23 19 25
+r r r b b b
+1 6 12 18 23 19 23
+r r r b b b
+1 6 12 18 23 19 15
+r r r b b b
+1 6 12 18 23 19 13
+r r r b b b
+1 6 12 18 23 17 23
+r r r b b b
+1 6 12 18 23 17 21
+r r r b b b
+1 6 12 18 23 17 13
+r r r b b b
+1 6 12 18 23 17 11
+r r r b b b
+1 6 12 18 19 25 19
+r r r b b b
+1 6 12 18 19 23 19
+r r r b b b
+1 6 12 18 19 23 17
+r r r b b b
+1 6 12 18 19 15 19
+r r r b b b
+1 6 12 18 19 15 9
+r r r b b b
+1 6 12 18 19 13 19
+r r r b b b
+1 6 12 18 19 13 17
+r r r b b b
+1 6 12 18 19 13 9
+r r r b b b
+1 6 12 18 19 13 7
+r r r b b b
+1 6 12 18 17 23 19
+r r r b b b
+1 6 12 18 17 23 17
+r r r b b b
+1 6 12 18 17 21 17
+r r r b b b
+1 6 12 18 17 13 19
+r r r b b b
+1 6 12 18 17 13 17
+r r r b b b
+1 6 12 18 17 13 9
+r r r b b b
+1 6 12 18 17 13 7
+r r r b b b
+1 6 12 18 17 11 17
+r r r b b b
+1 6 12 18 17 11 7
+r r r b b b
+1 6 12 18 13 19 25
+r r r b b b
+1 6 12 18 13 19 23
+r r r b b b
+1 6 12 18 13 19 15
+r r r b b b
+1 6 12 18 13 19 13
+r r r b b b
+1 6 12 18 13 17 23
+r r r b b b
+1 6 12 18 13 17 21
+r r r b b b
+1 6 12 18 13 17 13
+r r r b b b
+1 6 12 18 13 17 11
+r r r b b b
+1 6 12 18 13 9 15
+r r r b b b
+1 6 12 18 13 9 13
+r r r b b b
+1 6 12 18 13 9 5
+r r r b b b
+1 6 12 18 13 9 3
+r r r b b b
+1 6 12 18 13 7 13
+r r r b b b
+1 6 12 18 13 7 11
+r r r b b b
+1 6 12 18 13 7 3
+r r r b b b
+1 6 12 18 13 7 1
+r r r b b b
+1 6 12 16 21 17 23
+r r r b b b
+1 6 12 16 21 17 21
+r r r b b b
+1 6 12 16 21 17 13
+r r r b b b
+1 6 12 16 21 17 11
+r r r b b b
+1 6 12 16 17 23 19
+r r r b b b
+1 6 12 16 17 23 17
+r r r b b b
+1 6 12 16 17 21 17
+r r r b b b
+1 6 12 16 17 13 19
+r r r b b b
+1 6 12 16 17 13 17
+r r r b b b
+1 6 12 16 17 13 9
+r r r b b b
+1 6 12 16 17 13 7
+r r r b b b
+1 6 12 16 17 11 17
+r r r b b b
+1 6 12 16 17 11 7
+r r r b b b
+1 6 12 16 11 17 23
+r r r b b b
+1 6 12 16 11 17 21
+r r r b b b
+1 6 12 16 11 17 13
+r r r b b b
+1 6 12 16 11 17 11
+r r r b b b
+1 6 12 16 11 7 13
+r r r b b b
+1 6 12 16 11 7 11
+r r r b b b
+1 6 12 16 11 7 3
+r r r b b b
+1 6 12 16 11 7 1
+r r r b b b
+1 6 12 8 13 19 25
+r r r b b b
+1 6 12 8 13 19 23
+r r r b b b
+1 6 12 8 13 19 15
+r r r b b b
+1 6 12 8 13 19 13
+r r r b b b
+1 6 12 8 13 17 23
+r r r b b b
+1 6 12 8 13 17 21
+r r r b b b
+1 6 12 8 13 17 13
+r r r b b b
+1 6 12 8 13 17 11
+r r r b b b
+1 6 12 8 13 9 15
+r r r b b b
+1 6 12 8 13 9 13
+r r r b b b
+1 6 12 8 13 9 5
+r r r b b b
+1 6 12 8 13 9 3
+r r r b b b
+1 6 12 8 13 7 13
+r r r b b b
+1 6 12 8 13 7 11
+r r r b b b
+1 6 12 8 13 7 3
+r r r b b b
+1 6 12 8 13 7 1
+r r r b b b
+1 6 12 8 9 15 19
+r r r b b b
+1 6 12 8 9 15 9
+r r r b b b
+1 6 12 8 9 13 19
+r r r b b b
+1 6 12 8 9 13 17
+r r r b b b
+1 6 12 8 9 13 9
+r r r b b b
+1 6 12 8 9 13 7
+r r r b b b
+1 6 12 8 9 5 9
+r r r b b b
+1 6 12 8 9 3 9
+r r r b b b
+1 6 12 8 9 3 7
+r r r b b b
+1 6 12 8 7 13 19
+r r r b b b
+1 6 12 8 7 13 17
+r r r b b b
+1 6 12 8 7 13 9
+r r r b b b
+1 6 12 8 7 13 7
+r r r b b b
+1 6 12 8 7 11 17
+r r r b b b
+1 6 12 8 7 11 7
+r r r b b b
+1 6 12 8 7 3 9
+r r r b b b
+1 6 12 8 7 3 7
+r r r b b b
+1 6 12 8 7 1 7
+r r r b b b
+1 6 12 8 3 9 15
+r r r b b b
+1 6 12 8 3 9 13
+r r r b b b
+1 6 12 8 3 9 5
+r r r b b b
+1 6 12 8 3 9 3
+r r r b b b
+1 6 12 8 3 7 13
+r r r b b b
+1 6 12 8 3 7 11
+r r r b b b
+1 6 12 8 3 7 3
+r r r b b b
+1 6 12 8 3 7 1
+r r r b b b
+1 6 12 6 11 17 23
+r r r b b b
+1 6 12 6 11 17 21
+r r r b b b
+1 6 12 6 11 17 13
+r r r b b b
+1 6 12 6 11 17 11
+r r r b b b
+1 6 12 6 11 7 13
+r r r b b b
+1 6 12 6 11 7 11
+r r r b b b
+1 6 12 6 11 7 3
+r r r b b b
+1 6 12 6 11 7 1
+r r r b b b
+1 6 12 6 7 13 19
+r r r b b b
+1 6 12 6 7 13 17
+r r r b b b
+1 6 12 6 7 13 9
+r r r b b b
+1 6 12 6 7 13 7
+r r r b b b
+1 6 12 6 7 11 17
+r r r b b b
+1 6 12 6 7 11 7
+r r r b b b
+1 6 12 6 7 3 9
+r r r b b b
+1 6 12 6 7 3 7
+r r r b b b
+1 6 12 6 7 1 7
+r r r b b b
+1 6 12 6 1 7 13
+r r r b b b
+1 6 12 6 1 7 11
+r r r b b b
+1 6 12 6 1 7 3
+r r r b b b
+1 6 12 6 1 7 1
+r r r b b b
+1 6 2 8 13 19 25
+r r r b b b
+1 6 2 8 13 19 23
+r r r b b b
+1 6 2 8 13 19 15
+r r r b b b
+1 6 2 8 13 19 13
+r r r b b b
+1 6 2 8 13 17 23
+r r r b b b
+1 6 2 8 13 17 21
+r r r b b b
+1 6 2 8 13 17 13
+r r r b b b
+1 6 2 8 13 17 11
+r r r b b b
+1 6 2 8 13 9 15
+r r r b b b
+1 6 2 8 13 9 13
+r r r b b b
+1 6 2 8 13 9 5
+r r r b b b
+1 6 2 8 13 9 3
+r r r b b b
+1 6 2 8 13 7 13
+r r r b b b
+1 6 2 8 13 7 11
+r r r b b b
+1 6 2 8 13 7 3
+r r r b b b
+1 6 2 8 13 7 1
+r r r b b b
+1 6 2 8 9 15 19
+r r r b b b
+1 6 2 8 9 15 9
+r r r b b b
+1 6 2 8 9 13 19
+r r r b b b
+1 6 2 8 9 13 17
+r r r b b b
+1 6 2 8 9 13 9
+r r r b b b
+1 6 2 8 9 13 7
+r r r b b b
+1 6 2 8 9 5 9
+r r r b b b
+1 6 2 8 9 3 9
+r r r b b b
+1 6 2 8 9 3 7
+r r r b b b
+1 6 2 8 7 13 19
+r r r b b b
+1 6 2 8 7 13 17
+r r r b b b
+1 6 2 8 7 13 9
+r r r b b b
+1 6 2 8 7 13 7
+r r r b b b
+1 6 2 8 7 11 17
+r r r b b b
+1 6 2 8 7 11 7
+r r r b b b
+1 6 2 8 7 3 9
+r r r b b b
+1 6 2 8 7 3 7
+r r r b b b
+1 6 2 8 7 1 7
+r r r b b b
+1 6 2 8 3 9 15
+r r r b b b
+1 6 2 8 3 9 13
+r r r b b b
+1 6 2 8 3 9 5
+r r r b b b
+1 6 2 8 3 9 3
+r r r b b b
+1 6 2 8 3 7 13
+r r r b b b
+1 6 2 8 3 7 11
+r r r b b b
+1 6 2 8 3 7 3
+r r r b b b
+1 6 2 8 3 7 1
+r r r b b b
+1 6 2 6 11 17 23
+r r r b b b
+1 6 2 6 11 17 21
+r r r b b b
+1 6 2 6 11 17 13
+r r r b b b
+1 6 2 6 11 17 11
+r r r b b b
+1 6 2 6 11 7 13
+r r r b b b
+1 6 2 6 11 7 11
+r r r b b b
+1 6 2 6 11 7 3
+r r r b b b
+1 6 2 6 11 7 1
+r r r b b b
+1 6 2 6 7 13 19
+r r r b b b
+1 6 2 6 7 13 17
+r r r b b b
+1 6 2 6 7 13 9
+r r r b b b
+1 6 2 6 7 13 7
+r r r b b b
+1 6 2 6 7 11 17
+r r r b b b
+1 6 2 6 7 11 7
+r r r b b b
+1 6 2 6 7 3 9
+r r r b b b
+1 6 2 6 7 3 7
+r r r b b b
+1 6 2 6 7 1 7
+r r r b b b
+1 6 2 6 1 7 13
+r r r b b b
+1 6 2 6 1 7 11
+r r r b b b
+1 6 2 6 1 7 3
+r r r b b b
+1 6 2 6 1 7 1
+r r r b b b
+1 2 8 14 19 25 19
+r r r b b b
+1 2 8 14 19 23 19
+r r r b b b
+1 2 8 14 19 23 17
+r r r b b b
+1 2 8 14 19 15 19
+r r r b b b
+1 2 8 14 19 15 9
+r r r b b b
+1 2 8 14 19 13 19
+r r r b b b
+1 2 8 14 19 13 17
+r r r b b b
+1 2 8 14 19 13 9
+r r r b b b
+1 2 8 14 19 13 7
+r r r b b b
+1 2 8 14 15 19 25
+r r r b b b
+1 2 8 14 15 19 23
+r r r b b b
+1 2 8 14 15 19 15
+r r r b b b
+1 2 8 14 15 19 13
+r r r b b b
+1 2 8 14 15 9 15
+r r r b b b
+1 2 8 14 15 9 13
+r r r b b b
+1 2 8 14 15 9 5
+r r r b b b
+1 2 8 14 15 9 3
+r r r b b b
+1 2 8 14 13 19 25
+r r r b b b
+1 2 8 14 13 19 23
+r r r b b b
+1 2 8 14 13 19 15
+r r r b b b
+1 2 8 14 13 19 13
+r r r b b b
+1 2 8 14 13 17 23
+r r r b b b
+1 2 8 14 13 17 21
+r r r b b b
+1 2 8 14 13 17 13
+r r r b b b
+1 2 8 14 13 17 11
+r r r b b b
+1 2 8 14 13 9 15
+r r r b b b
+1 2 8 14 13 9 13
+r r r b b b
+1 2 8 14 13 9 5
+r r r b b b
+1 2 8 14 13 9 3
+r r r b b b
+1 2 8 14 13 7 13
+r r r b b b
+1 2 8 14 13 7 11
+r r r b b b
+1 2 8 14 13 7 3
+r r r b b b
+1 2 8 14 13 7 1
+r r r b b b
+1 2 8 14 9 15 19
+r r r b b b
+1 2 8 14 9 15 9
+r r r b b b
+1 2 8 14 9 13 19
+r r r b b b
+1 2 8 14 9 13 17
+r r r b b b
+1 2 8 14 9 13 9
+r r r b b b
+1 2 8 14 9 13 7
+r r r b b b
+1 2 8 14 9 5 9
+r r r b b b
+1 2 8 14 9 3 9
+r r r b b b
+1 2 8 14 9 3 7
+r r r b b b
+1 2 8 12 17 23 19
+r r r b b b
+1 2 8 12 17 23 17
+r r r b b b
+1 2 8 12 17 21 17
+r r r b b b
+1 2 8 12 17 13 19
+r r r b b b
+1 2 8 12 17 13 17
+r r r b b b
+1 2 8 12 17 13 9
+r r r b b b
+1 2 8 12 17 13 7
+r r r b b b
+1 2 8 12 17 11 17
+r r r b b b
+1 2 8 12 17 11 7
+r r r b b b
+1 2 8 12 13 19 25
+r r r b b b
+1 2 8 12 13 19 23
+r r r b b b
+1 2 8 12 13 19 15
+r r r b b b
+1 2 8 12 13 19 13
+r r r b b b
+1 2 8 12 13 17 23
+r r r b b b
+1 2 8 12 13 17 21
+r r r b b b
+1 2 8 12 13 17 13
+r r r b b b
+1 2 8 12 13 17 11
+r r r b b b
+1 2 8 12 13 9 15
+r r r b b b
+1 2 8 12 13 9 13
+r r r b b b
+1 2 8 12 13 9 5
+r r r b b b
+1 2 8 12 13 9 3
+r r r b b b
+1 2 8 12 13 7 13
+r r r b b b
+1 2 8 12 13 7 11
+r r r b b b
+1 2 8 12 13 7 3
+r r r b b b
+1 2 8 12 13 7 1
+r r r b b b
+1 2 8 12 11 17 23
+r r r b b b
+1 2 8 12 11 17 21
+r r r b b b
+1 2 8 12 11 17 13
+r r r b b b
+1 2 8 12 11 17 11
+r r r b b b
+1 2 8 12 11 7 13
+r r r b b b
+1 2 8 12 11 7 11
+r r r b b b
+1 2 8 12 11 7 3
+r r r b b b
+1 2 8 12 11 7 1
+r r r b b b
+1 2 8 12 7 13 19
+r r r b b b
+1 2 8 12 7 13 17
+r r r b b b
+1 2 8 12 7 13 9
+r r r b b b
+1 2 8 12 7 13 7
+r r r b b b
+1 2 8 12 7 11 17
+r r r b b b
+1 2 8 12 7 11 7
+r r r b b b
+1 2 8 12 7 3 9
+r r r b b b
+1 2 8 12 7 3 7
+r r r b b b
+1 2 8 12 7 1 7
+r r r b b b
+1 2 8 4 9 15 19
+r r r b b b
+1 2 8 4 9 15 9
+r r r b b b
+1 2 8 4 9 13 19
+r r r b b b
+1 2 8 4 9 13 17
+r r r b b b
+1 2 8 4 9 13 9
+r r r b b b
+1 2 8 4 9 13 7
+r r r b b b
+1 2 8 4 9 5 9
+r r r b b b
+1 2 8 4 9 3 9
+r r r b b b
+1 2 8 4 9 3 7
+r r r b b b
+1 2 8 4 5 9 15
+r r r b b b
+1 2 8 4 5 9 13
+r r r b b b
+1 2 8 4 5 9 5
+r r r b b b
+1 2 8 4 5 9 3
+r r r b b b
+1 2 8 4 3 9 15
+r r r b b b
+1 2 8 4 3 9 13
+r r r b b b
+1 2 8 4 3 9 5
+r r r b b b
+1 2 8 4 3 9 3
+r r r b b b
+1 2 8 4 3 7 13
+r r r b b b
+1 2 8 4 3 7 11
+r r r b b b
+1 2 8 4 3 7 3
+r r r b b b
+1 2 8 4 3 7 1
+r r r b b b
+1 2 8 2 7 13 19
+r r r b b b
+1 2 8 2 7 13 17
+r r r b b b
+1 2 8 2 7 13 9
+r r r b b b
+1 2 8 2 7 13 7
+r r r b b b
+1 2 8 2 7 11 17
+r r r b b b
+1 2 8 2 7 11 7
+r r r b b b
+1 2 8 2 7 3 9
+r r r b b b
+1 2 8 2 7 3 7
+r r r b b b
+1 2 8 2 7 1 7
+r r r b b b
+1 2 8 2 3 9 15
+r r r b b b
+1 2 8 2 3 9 13
+r r r b b b
+1 2 8 2 3 9 5
+r r r b b b
+1 2 8 2 3 9 3
+r r r b b b
+1 2 8 2 3 7 13
+r r r b b b
+1 2 8 2 3 7 11
+r r r b b b
+1 2 8 2 3 7 3
+r r r b b b
+1 2 8 2 3 7 1
+r r r b b b
+1 2 8 2 1 7 13
+r r r b b b
+1 2 8 2 1 7 11
+r r r b b b
+1 2 8 2 1 7 3
+r r r b b b
+1 2 8 2 1 7 1
+r r r b b b
+1 2 6 12 17 23 19
+r r r b b b
+1 2 6 12 17 23 17
+r r r b b b
+1 2 6 12 17 21 17
+r r r b b b
+1 2 6 12 17 13 19
+r r r b b b
+1 2 6 12 17 13 17
+r r r b b b
+1 2 6 12 17 13 9
+r r r b b b
+1 2 6 12 17 13 7
+r r r b b b
+1 2 6 12 17 11 17
+r r r b b b
+1 2 6 12 17 11 7
+r r r b b b
+1 2 6 12 13 19 25
+r r r b b b
+1 2 6 12 13 19 23
+r r r b b b
+1 2 6 12 13 19 15
+r r r b b b
+1 2 6 12 13 19 13
+r r r b b b
+1 2 6 12 13 17 23
+r r r b b b
+1 2 6 12 13 17 21
+r r r b b b
+1 2 6 12 13 17 13
+r r r b b b
+1 2 6 12 13 17 11
+r r r b b b
+1 2 6 12 13 9 15
+r r r b b b
+1 2 6 12 13 9 13
+r r r b b b
+1 2 6 12 13 9 5
+r r r b b b
+1 2 6 12 13 9 3
+r r r b b b
+1 2 6 12 13 7 13
+r r r b b b
+1 2 6 12 13 7 11
+r r r b b b
+1 2 6 12 13 7 3
+r r r b b b
+1 2 6 12 13 7 1
+r r r b b b
+1 2 6 12 11 17 23
+r r r b b b
+1 2 6 12 11 17 21
+r r r b b b
+1 2 6 12 11 17 13
+r r r b b b
+1 2 6 12 11 17 11
+r r r b b b
+1 2 6 12 11 7 13
+r r r b b b
+1 2 6 12 11 7 11
+r r r b b b
+1 2 6 12 11 7 3
+r r r b b b
+1 2 6 12 11 7 1
+r r r b b b
+1 2 6 12 7 13 19
+r r r b b b
+1 2 6 12 7 13 17
+r r r b b b
+1 2 6 12 7 13 9
+r r r b b b
+1 2 6 12 7 13 7
+r r r b b b
+1 2 6 12 7 11 17
+r r r b b b
+1 2 6 12 7 11 7
+r r r b b b
+1 2 6 12 7 3 9
+r r r b b b
+1 2 6 12 7 3 7
+r r r b b b
+1 2 6 12 7 1 7
+r r r b b b
+1 2 6 2 7 13 19
+r r r b b b
+1 2 6 2 7 13 17
+r r r b b b
+1 2 6 2 7 13 9
+r r r b b b
+1 2 6 2 7 13 7
+r r r b b b
+1 2 6 2 7 11 17
+r r r b b b
+1 2 6 2 7 11 7
+r r r b b b
+1 2 6 2 7 3 9
+r r r b b b
+1 2 6 2 7 3 7
+r r r b b b
+1 2 6 2 7 1 7
+r r r b b b
+1 2 6 2 3 9 15
+r r r b b b
+1 2 6 2 3 9 13
+r r r b b b
+1 2 6 2 3 9 5
+r r r b b b
+1 2 6 2 3 9 3
+r r r b b b
+1 2 6 2 3 7 13
+r r r b b b
+1 2 6 2 3 7 11
+r r r b b b
+1 2 6 2 3 7 3
+r r r b b b
+1 2 6 2 3 7 1
+r r r b b b
+1 2 6 2 1 7 13
+r r r b b b
+1 2 6 2 1 7 11
+r r r b b b
+1 2 6 2 1 7 3
+r r r b b b
+1 2 6 2 1 7 1
+r r r b b b

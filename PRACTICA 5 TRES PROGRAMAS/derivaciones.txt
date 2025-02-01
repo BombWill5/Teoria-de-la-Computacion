@@ -1,0 +1,21 @@
+S
+=> iCtSA
+=> iCtS
+=> iCtiCtSA
+=> iCtiCtiCtSAA
+=> iCtiCtiCtiCtSAAA
+=> iCtiCtiCtiCtiCtSAAAA
+=> iCtiCtiCtiCtiCtSAAA
+=> iCtiCtiCtiCtiCtSAA
+=> iCtiCtiCtiCtiCtiCtSAAA
+=> iCtiCtiCtiCtiCtiCtSAA
+=> iCtiCtiCtiCtiCtiCtSA
+=> iCtiCtiCtiCtiCtiCtiCtSAA
+=> iCtiCtiCtiCtiCtiCtiCtiCtSAAA
+=> iCtiCtiCtiCtiCtiCtiCtiCtSAA
+=> iCtiCtiCtiCtiCtiCtiCtiCtiCtSAAA
+=> iCtiCtiCtiCtiCtiCtiCtiCtiCtSAA
+=> iCtiCtiCtiCtiCtiCtiCtiCtiCtSA
+=> iCtiCtiCtiCtiCtiCtiCtiCtiCtSeS
+=> iCtiCtiCtiCtiCtiCtiCtiCtiCtSeiCtSA
+=>* iCtiCtiCtiCtiCtiCtiCtiCtiCtSeiCtS
